@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    text-align: center;
+    
+}
+
+.Madara{
+    background-image: url("http://1.bp.blogspot.com/-_7Jyfklrfbw/Up862iQLy5I/AAAAAAAAA08/oUZ14Y4Y3tI/s1600/madara_and_juubi_wallpaper.png");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0px;    
+}
+
+.Madara-Quote{
+    background-color: #3f3f44;
+    color: #dbdbdb;
+}
+
+
+.Madara-title{
+    margin: 0px;
+    font-family: 'Crete Round', serif;
+
+}
+
+.Madara-description{
+    margin: 0px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Deku{
+    background-image: url("https://wallpaperaccess.com/full/797039.png");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0px;    
+}
+
+.Deku-Quote{
+    background-color: #120136;
+    color: #dbdbdb;
+}
+
+.Deku-title{
+    margin: 0px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.Deku-description{
+    margin: 0px;
+    font-family: 'Abel', sans-serif;
+}
+
+.Pain{
+    background-image: url("https://wallpapertag.com/wallpaper/full/3/e/4/545136-free-download-naruto-pain-wallpapers-1920x1080-for-ipad-2.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0px;    
+}
+
+.Pain-Quotes{
+    background-color: #85a392;
+}
+
+.Pain-title{
+    margin: 0px;
+
+}
+
+.Pain-description{
+    margin: 0px;
+
+}
